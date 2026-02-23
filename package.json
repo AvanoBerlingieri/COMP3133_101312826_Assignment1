@@ -1,0 +1,38 @@
+{
+  "name": "comp3133_101312826_assignment1",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "keywords": [
+    "assignment"
+  ],
+  "homepage": "https://github.com/AvanoBerlingieri/COMP3133_101312826_Assignment1#readme",
+  "bugs": {
+    "url": "https://github.com/AvanoBerlingieri/COMP3133_101312826_Assignment1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvanoBerlingieri/COMP3133_101312826_Assignment1.git"
+  },
+  "license": "ISC",
+  "author": "Avano Berlingieri",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.4.0",
+    "@as-integrations/express5": "^1.1.2",
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.9.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "graphql": "^16.12.0",
+    "graphql-tag": "^2.12.6",
+    "mongoose": "^9.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
