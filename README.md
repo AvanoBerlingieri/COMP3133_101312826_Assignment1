@@ -1,8 +1,6 @@
 # COMP3133_101312826_Assignment1
-Full stack assignment 1 
-
 ## Overview
-This project is the backend graphql apis for an employee management application managing users and employees.
+This project is the backend graphql apis for an employee management system managing users and employees.
 
 ### It allows:
 
@@ -12,7 +10,9 @@ Creating, updating, deleting, and searching for employees by id, designation or 
 
 Storing employee profile photos on Cloudinary
 
-The project is built with Node.js, Express, Apollo Server, and Mongoose.
+Storing User and Employee data on MongoDB
+
+The project is built with NodeJS, Express, GraphQL and MongoDB
 
 ## Starting the project
 Either clone the repo or download the source code
